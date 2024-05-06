@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.midcard{
+	width:50%;
+}
+
+.card-img-top{
+	height:170px;
+}
